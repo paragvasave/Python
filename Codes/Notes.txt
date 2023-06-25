@@ -1,0 +1,2 @@
+Function defined by the programmer but called by other entity(in case of python : PVM) is called as call back function.
+ex : Dunzo, Swiggy cake
